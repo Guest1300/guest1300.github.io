@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>rcr</name>
+			<longname>Revaine: Cracks in Reality</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CG15 Dream of the Maze</name>
+			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
+I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+II, III — The next time you attack this turn, put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/0.png" num="22">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR15 Words of Opening</name>
+			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
+I — You may discard a card. If you do, draw two cards.
+II, III — Words of Opening deals 1 damage to target opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/1.png" num="18">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15 Liturgy of Sealing</name>
+			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
+I — Exile target creature with power 4 or greater or enchantment.
+II, III — Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/2.png" num="4">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB15 Pact of Unmaking</name>
+			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
+I — Destroy target creature.
+II, III — Each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/3.png" num="14">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU15 Winterchill Rite</name>
+			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
+I — Tap up to one target creature and put a stun counter on it.
+II, III — The next spell you cast this turn costs {1} less to cast.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/4.png" num="9">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW06 Gatekeeper Spirit</name>
+			<text>Vigilance
+When this permanent enters, put a +1/+1 counter on up to one target creature.
+Dreamwalk {W} (You may cast this spell as a noncreature enchantment for {W}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/5.png" num="2">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Threshold Spectre</name>
+			<text>When this permanent enters, scry 2, then draw a card.
+Dreamwalk {1}{U} (You may cast this spell as a noncreature enchantment for {1}{U}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/6.png" num="5">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Mazewall Spookster</name>
+			<text>Menace
+Whenever a creature you control attacks alone, each opponent loses 2 life.
+Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/7.png" num="12">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Unbound Horror</name>
+			<text>Reach
+When this permanent enters, mill four cards, then you may return a permanent card milled this way to your hand.
+Dreamwalk {1}{G} (You may cast this spell as a noncreature enchantment for {1}{G}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/8.png" num="20">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Vengeful Avatar</name>
+			<text>At the beginning of combat on your turn, target creature you control gets +1/+0 and gains haste until end of turn.
+Dreamwalk {1}{R} (You may cast this spell as a noncreature enchantment for {1}{R}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/9.png" num="16">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Salvager of Echoes</name>
+			<text>Flying
+When this permanent is put into a graveyard from the battlefield, you draw a card and each opponent loses 3 life.
+Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/10.png" num="13">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Inspiriting Apparition</name>
+			<text>Flying
+Whenever you attack, untap target attacking creature. It gets +1/+0 until end of turn.
+Dreamwalk {1}{W} (You may cast this spell as a noncreature enchantment for {1}{W}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/11.png" num="3">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Apprentice Endsage</name>
+			<text>Flying
+When this creature dies, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/12.png" num="11">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Foretold Departure</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If you controlled that permanent, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/13.png" num="6">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Counterspell</name>
+			<text>This spell costs {1} less to cast if you&apos;ve scried or surveiled this turn.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/14.png" num="8">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR11 Bless Unto the End</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Target creature gets +3/+0 and gains reach until end of turn. If this spell was bargained, when that creature dies this turn, create a 2/2 white Warlock creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/15.png" num="17">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG01 Grove Acolyte</name>
+			<text>Macabre — As long as an enchantment you controlled entered or left the battlefield this turn, this creature gets +2/+1 and has vigilance.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/16.png" num="19">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Bureau Inspector</name>
+			<text>When this creature enters, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/17.png" num="1">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Spark Acolyte</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, it deals 2 damage to up to one target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/18.png" num="15">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG13 Sage&apos;s Blessing</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+{2}, Sacrifice this Aura: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/19.png" num="21">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB02 Hasty Guy</name>
+			<text>Haste
+Whenever you cast your second spell each turn, this creature gets +1/+0 and can&apos;t be blocked until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/20.png" num="10">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU11 Forbidden Histories</name>
+			<text>This spell costs {1} less to cast if you&apos;ve cast another spell this turn.
+Scry 1, then draw two cards.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RCR-files/img/21.png" num="7">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
