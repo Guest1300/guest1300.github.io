@@ -1,4 +1,64 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CU08 Threshold Spectre added.
+CB07 Devourer of Echoes added.
+CU11 Foretold Departure added.
+CU14 Dispel Myth added.
+CR11 Faith Unto the End added.
+CR02 Spark Acolyte added.
+CB02 Cult Gloryseeker added.
+CU12 Forbidden Histories added.
+CW02 Erase Unreality added.
+CR05 Crimson-Pledge Attendant added.
+CG05 Verdant Awakener added.
+CU02 Scribe's Attendant added.
+CB14 Final Vengeance added.
+CB13 Enchant Removal added.
+CR14 Nihilopyresis added.
+CG14 Bite Spell added.
+CW03 Ritual Witness added.
+CU10 Unleash Interiority added.
+CR06 Manathirst Titan added.
+CR13 Abrade added.
+CR12 Empowering Mantra added.
+CR10 ??? added.
+CU99 Bury In History added.
+CU13 Witness Protection added.
+CU01 Levitating Moonseer added.
+CW14 Banishing Light added.
+CW13 Magnificent End added.
+CU03 Channel The Bounds added.
+CU07 New-Moon Diviner added.
+CU05 Dreamshield Mage added.
+CU06 Bounds Guardian added.
+CU09 Sleepwalker's Bane added.
+CU04 Starlight Channeller added.
+CB11 Mind Rot added.
+
+CU07 Threshold Spectre removed.
+CB07 Salvager of Echoes removed.
+CU10 Foretold Departure removed.
+CU13 Counterspell removed.
+CR11 Bless Unto the End removed.
+CR04 Spark Acolyte removed.
+CB02 Hasty Guy removed.
+CU11 Forbidden Histories removed.
+
+CW15 Liturgy of Sealing
+rules_text: [i](As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater or enchantment.
+II, III — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => [i](As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power or toughness 4 or greater.
+II, III — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+special_text: [i](As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater or enchantment.
+II, III — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => [i](As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power or toughness 4 or greater.
+II, III — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

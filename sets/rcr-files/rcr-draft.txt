@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "22",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "18",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "4",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "14",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "9",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/4.png"
 			}
@@ -55,17 +55,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/5.png"
 			}
 		},
 		{
-			"name": "CU07 Threshold Spectre",
+			"name": "CU08 Threshold Spectre",
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment Creature — Spirit",
-			"collector_number": "5",
+			"type": "Enchantment Creature — Nightmare",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment Creature — Scarecrow",
-			"collector_number": "12",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "20",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/8.png"
 			}
@@ -95,17 +95,17 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "16",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/9.png"
 			}
 		},
 		{
-			"name": "CB07 Salvager of Echoes",
+			"name": "CB07 Devourer of Echoes",
 			"rarity": "common",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "13",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/11.png"
 			}
@@ -125,37 +125,37 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "11",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/12.png"
 			}
 		},
 		{
-			"name": "CU10 Foretold Departure",
+			"name": "CU11 Foretold Departure",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/13.png"
 			}
 		},
 		{
-			"name": "CU13 Counterspell",
+			"name": "CU14 Dispel Myth",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/14.png"
 			}
 		},
 		{
-			"name": "CR11 Bless Unto the End",
+			"name": "CR11 Faith Unto the End",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "19",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/16.png"
 			}
@@ -181,11 +181,11 @@
 			}
 		},
 		{
-			"name": "CR04 Spark Acolyte",
+			"name": "CR02 Spark Acolyte",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "15",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/18.png"
 			}
@@ -195,29 +195,289 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "21",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/19.png"
 			}
 		},
 		{
-			"name": "CB02 Hasty Guy",
+			"name": "CB02 Cult Gloryseeker",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "10",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/20.png"
 			}
 		},
 		{
-			"name": "CU11 Forbidden Histories",
+			"name": "CU12 Forbidden Histories",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://mse-hub/sets/RCR-files/img/21.png"
+			}
+		},
+		{
+			"name": "CW02 Erase Unreality",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/22.png"
+			}
+		},
+		{
+			"name": "CR05 Crimson-Pledge Attendant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/23.png"
+			}
+		},
+		{
+			"name": "CG05 Verdant Awakener",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU02 Scribe's Attendant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/25.png"
+			}
+		},
+		{
+			"name": "CB14 Final Vengeance",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB13 Enchant Removal",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/27.png"
+			}
+		},
+		{
+			"name": "CR14 Nihilopyresis",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/28.png"
+			}
+		},
+		{
+			"name": "CG14 Bite Spell",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/29.png"
+			}
+		},
+		{
+			"name": "CW03 Ritual Witness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/30.png"
+			}
+		},
+		{
+			"name": "CU10 Unleash Interiority",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/31.png"
+			}
+		},
+		{
+			"name": "CR06 Manathirst Titan",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/32.png"
+			}
+		},
+		{
+			"name": "CR13 Abrade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/33.png"
+			}
+		},
+		{
+			"name": "CR12 Empowering Mantra",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/34.png"
+			}
+		},
+		{
+			"name": "CR10 ???",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/35.png"
+			}
+		},
+		{
+			"name": "CU99 Bury In History",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/36.png"
+			}
+		},
+		{
+			"name": "CU13 Witness Protection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/37.png"
+			}
+		},
+		{
+			"name": "CU01 Levitating Moonseer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/38.png"
+			}
+		},
+		{
+			"name": "CW14 Banishing Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/39.png"
+			}
+		},
+		{
+			"name": "CW13 Magnificent End",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/40.png"
+			}
+		},
+		{
+			"name": "CU03 Channel The Bounds",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/41.png"
+			}
+		},
+		{
+			"name": "CU07 New-Moon Diviner",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/42.png"
+			}
+		},
+		{
+			"name": "CU05 Dreamshield Mage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/43.png"
+			}
+		},
+		{
+			"name": "CU06 Bounds Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Nightmare",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/44.png"
+			}
+		},
+		{
+			"name": "CU09 Sleepwalker's Bane",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Nightmare",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/45.png"
+			}
+		},
+		{
+			"name": "CU04 Starlight Channeller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/46.png"
+			}
+		},
+		{
+			"name": "CB11 Mind Rot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RCR-files/img/47.png"
 			}
 		}
 	]
@@ -231,22 +491,48 @@
 	8 CB15 Pact of Unmaking
 	8 CU15 Winterchill Rite
 	8 CW06 Gatekeeper Spirit
-	8 CU07 Threshold Spectre
+	8 CU08 Threshold Spectre
 	8 CB06 Mazewall Spookster
 	8 CG08 Unbound Horror
 	8 CR08 Vengeful Avatar
-	8 CB07 Salvager of Echoes
+	8 CB07 Devourer of Echoes
 	8 CW09 Inspiriting Apparition
 	8 CB05 Apprentice Endsage
-	8 CU10 Foretold Departure
-	8 CU13 Counterspell
-	8 CR11 Bless Unto the End
+	8 CU11 Foretold Departure
+	8 CU14 Dispel Myth
+	8 CR11 Faith Unto the End
 	8 CG01 Grove Acolyte
 	8 CW01 Bureau Inspector
-	8 CR04 Spark Acolyte
+	8 CR02 Spark Acolyte
 	8 CG13 Sage's Blessing
-	8 CB02 Hasty Guy
-	8 CU11 Forbidden Histories
+	8 CB02 Cult Gloryseeker
+	8 CU12 Forbidden Histories
+	8 CW02 Erase Unreality
+	8 CR05 Crimson-Pledge Attendant
+	8 CG05 Verdant Awakener
+	8 CU02 Scribe's Attendant
+	8 CB14 Final Vengeance
+	8 CB13 Enchant Removal
+	8 CR14 Nihilopyresis
+	8 CG14 Bite Spell
+	8 CW03 Ritual Witness
+	8 CU10 Unleash Interiority
+	8 CR06 Manathirst Titan
+	8 CR13 Abrade
+	8 CR12 Empowering Mantra
+	8 CR10 ???
+	8 CU99 Bury In History
+	8 CU13 Witness Protection
+	8 CU01 Levitating Moonseer
+	8 CW14 Banishing Light
+	8 CW13 Magnificent End
+	8 CU03 Channel The Bounds
+	8 CU07 New-Moon Diviner
+	8 CU05 Dreamshield Mage
+	8 CU06 Bounds Guardian
+	8 CU09 Sleepwalker's Bane
+	8 CU04 Starlight Channeller
+	8 CB11 Mind Rot
 [common | masterpiece(1)]
 	8 CG15 Dream of the Maze
 	8 CR15 Words of Opening
@@ -254,22 +540,48 @@
 	8 CB15 Pact of Unmaking
 	8 CU15 Winterchill Rite
 	8 CW06 Gatekeeper Spirit
-	8 CU07 Threshold Spectre
+	8 CU08 Threshold Spectre
 	8 CB06 Mazewall Spookster
 	8 CG08 Unbound Horror
 	8 CR08 Vengeful Avatar
-	8 CB07 Salvager of Echoes
+	8 CB07 Devourer of Echoes
 	8 CW09 Inspiriting Apparition
 	8 CB05 Apprentice Endsage
-	8 CU10 Foretold Departure
-	8 CU13 Counterspell
-	8 CR11 Bless Unto the End
+	8 CU11 Foretold Departure
+	8 CU14 Dispel Myth
+	8 CR11 Faith Unto the End
 	8 CG01 Grove Acolyte
 	8 CW01 Bureau Inspector
-	8 CR04 Spark Acolyte
+	8 CR02 Spark Acolyte
 	8 CG13 Sage's Blessing
-	8 CB02 Hasty Guy
-	8 CU11 Forbidden Histories
+	8 CB02 Cult Gloryseeker
+	8 CU12 Forbidden Histories
+	8 CW02 Erase Unreality
+	8 CR05 Crimson-Pledge Attendant
+	8 CG05 Verdant Awakener
+	8 CU02 Scribe's Attendant
+	8 CB14 Final Vengeance
+	8 CB13 Enchant Removal
+	8 CR14 Nihilopyresis
+	8 CG14 Bite Spell
+	8 CW03 Ritual Witness
+	8 CU10 Unleash Interiority
+	8 CR06 Manathirst Titan
+	8 CR13 Abrade
+	8 CR12 Empowering Mantra
+	8 CR10 ???
+	8 CU99 Bury In History
+	8 CU13 Witness Protection
+	8 CU01 Levitating Moonseer
+	8 CW14 Banishing Light
+	8 CW13 Magnificent End
+	8 CU03 Channel The Bounds
+	8 CU07 New-Moon Diviner
+	8 CU05 Dreamshield Mage
+	8 CU06 Bounds Guardian
+	8 CU09 Sleepwalker's Bane
+	8 CU04 Starlight Channeller
+	8 CB11 Mind Rot
 [foil(1)]
 	12 CG15 Dream of the Maze
 	12 CR15 Words of Opening
@@ -277,22 +589,48 @@
 	12 CB15 Pact of Unmaking
 	12 CU15 Winterchill Rite
 	12 CW06 Gatekeeper Spirit
-	12 CU07 Threshold Spectre
+	12 CU08 Threshold Spectre
 	12 CB06 Mazewall Spookster
 	12 CG08 Unbound Horror
 	12 CR08 Vengeful Avatar
-	12 CB07 Salvager of Echoes
+	12 CB07 Devourer of Echoes
 	12 CW09 Inspiriting Apparition
 	12 CB05 Apprentice Endsage
-	12 CU10 Foretold Departure
-	12 CU13 Counterspell
-	12 CR11 Bless Unto the End
+	12 CU11 Foretold Departure
+	12 CU14 Dispel Myth
+	12 CR11 Faith Unto the End
 	12 CG01 Grove Acolyte
 	12 CW01 Bureau Inspector
-	12 CR04 Spark Acolyte
+	12 CR02 Spark Acolyte
 	12 CG13 Sage's Blessing
-	12 CB02 Hasty Guy
-	12 CU11 Forbidden Histories
+	12 CB02 Cult Gloryseeker
+	12 CU12 Forbidden Histories
+	12 CW02 Erase Unreality
+	12 CR05 Crimson-Pledge Attendant
+	12 CG05 Verdant Awakener
+	12 CU02 Scribe's Attendant
+	12 CB14 Final Vengeance
+	12 CB13 Enchant Removal
+	12 CR14 Nihilopyresis
+	12 CG14 Bite Spell
+	12 CW03 Ritual Witness
+	12 CU10 Unleash Interiority
+	12 CR06 Manathirst Titan
+	12 CR13 Abrade
+	12 CR12 Empowering Mantra
+	12 CR10 ???
+	12 CU99 Bury In History
+	12 CU13 Witness Protection
+	12 CU01 Levitating Moonseer
+	12 CW14 Banishing Light
+	12 CW13 Magnificent End
+	12 CU03 Channel The Bounds
+	12 CU07 New-Moon Diviner
+	12 CU05 Dreamshield Mage
+	12 CU06 Bounds Guardian
+	12 CU09 Sleepwalker's Bane
+	12 CU04 Starlight Channeller
+	12 CB11 Mind Rot
 [wildcard(1)]
 	6 CG15 Dream of the Maze
 	6 CR15 Words of Opening
@@ -300,19 +638,45 @@
 	6 CB15 Pact of Unmaking
 	6 CU15 Winterchill Rite
 	6 CW06 Gatekeeper Spirit
-	6 CU07 Threshold Spectre
+	6 CU08 Threshold Spectre
 	6 CB06 Mazewall Spookster
 	6 CG08 Unbound Horror
 	6 CR08 Vengeful Avatar
-	6 CB07 Salvager of Echoes
+	6 CB07 Devourer of Echoes
 	6 CW09 Inspiriting Apparition
 	6 CB05 Apprentice Endsage
-	6 CU10 Foretold Departure
-	6 CU13 Counterspell
-	6 CR11 Bless Unto the End
+	6 CU11 Foretold Departure
+	6 CU14 Dispel Myth
+	6 CR11 Faith Unto the End
 	6 CG01 Grove Acolyte
 	6 CW01 Bureau Inspector
-	6 CR04 Spark Acolyte
+	6 CR02 Spark Acolyte
 	6 CG13 Sage's Blessing
-	6 CB02 Hasty Guy
-	6 CU11 Forbidden Histories
+	6 CB02 Cult Gloryseeker
+	6 CU12 Forbidden Histories
+	6 CW02 Erase Unreality
+	6 CR05 Crimson-Pledge Attendant
+	6 CG05 Verdant Awakener
+	6 CU02 Scribe's Attendant
+	6 CB14 Final Vengeance
+	6 CB13 Enchant Removal
+	6 CR14 Nihilopyresis
+	6 CG14 Bite Spell
+	6 CW03 Ritual Witness
+	6 CU10 Unleash Interiority
+	6 CR06 Manathirst Titan
+	6 CR13 Abrade
+	6 CR12 Empowering Mantra
+	6 CR10 ???
+	6 CU99 Bury In History
+	6 CU13 Witness Protection
+	6 CU01 Levitating Moonseer
+	6 CW14 Banishing Light
+	6 CW13 Magnificent End
+	6 CU03 Channel The Bounds
+	6 CU07 New-Moon Diviner
+	6 CU05 Dreamshield Mage
+	6 CU06 Bounds Guardian
+	6 CU09 Sleepwalker's Bane
+	6 CU04 Starlight Channeller
+	6 CB11 Mind Rot
