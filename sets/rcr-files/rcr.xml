@@ -5,7 +5,7 @@
 			<name>rcr</name>
 			<longname>Revaine: Cracks in Reality</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-16</releasedate>
+			<releasedate>2026-09-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
 I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 II, III — The next time you attack this turn, put a +1/+1 counter on up to one target creature.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/0.png" num="48">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/0.png" num="64">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -32,7 +32,7 @@ II, III — The next time you attack this turn, put a +1/+1 counter on up to one
 			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
 I — You may discard a card. If you do, draw two cards.
 II, III — Words of Opening deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/1.png" num="42">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/1.png" num="52">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ II, III — Words of Opening deals 1 damage to target opponent.</text>
 			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
 I — Exile target creature with power or toughness 4 or greater.
 II, III — Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/2.png" num="8">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/2.png" num="13">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@ II, III — Scry 1. (Look at the top card of your library. You may put that card
 			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
 I — Destroy target creature.
 II, III — Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/3.png" num="32">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/3.png" num="39">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ II, III — Each opponent loses 1 life and you gain 1 life.</text>
 			<text>(As this Invocation enters and whenever you cast a noncreature spell, add a lore counter. Sacrifice after III.)
 I — Tap up to one target creature and put a stun counter on it.
 II, III — The next spell you cast this turn costs {1} less to cast.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/4.png" num="23">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/4.png" num="26">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ II, III — The next spell you cast this turn costs {1} less to cast.</text>
 			<text>Vigilance
 When this permanent enters, put a +1/+1 counter on up to one target creature.
 Dreamwalk {W} (You may cast this spell as a noncreature enchantment for {W}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/5.png" num="4">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/5.png" num="5">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,9 +120,9 @@ Dreamwalk {W} (You may cast this spell as a noncreature enchantment for {W}. Tur
 		</card>
 		<card>
 			<name>CU08 Threshold Spectre</name>
-			<text>Whenever one or more enchantment creatures you control deal combat damage to a player, you may draw a card. If you do, discard a card.
+			<text>Whenever one or more enchantment creatures you control attack, you may draw a card. If you do, discard a card.
 Dreamwalk {1}{U} (You may cast this spell as a noncreature enchantment for {1}{U}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/6.png" num="16">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/6.png" num="19">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -132,20 +132,20 @@ Dreamwalk {1}{U} (You may cast this spell as a noncreature enchantment for {1}{U
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/5</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB06 Mazewall Spookster</name>
+			<name>CB07 Mazewall Spookster</name>
 			<text>Menace
-Whenever a creature you control attacks alone, each opponent loses 2 life.
+Whenever a creature you control attacks alone, it gets +2/+0 until end of turn.
 Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/7.png" num="27">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/7.png" num="31">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Scarecrow</type>
+				<type>Enchantment Creature — Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -157,17 +157,17 @@ Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B
 		</card>
 		<card>
 			<name>CG08 Unbound Horror</name>
-			<text>Reach
-When this permanent enters, mill four cards, then you may return a permanent card milled this way to your hand.
-Dreamwalk {1}{G} (You may cast this spell as a noncreature enchantment for {1}{G}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/8.png" num="45">RCR</set>
+			<text>Vigilance
+Enchantment creatures you control can&apos;t be blocked by creatures with power 2 or less.
+Dreamwalk {G} (You may cast this spell as a noncreature enchantment for {G}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/8.png" num="58">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment Creature — Nightmare</type>
 				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
-				<cmc>5</cmc>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>4/4</pt>
@@ -178,7 +178,7 @@ Dreamwalk {1}{G} (You may cast this spell as a noncreature enchantment for {1}{G
 			<name>CR08 Vengeful Avatar</name>
 			<text>At the beginning of combat on your turn, target creature you control gets +1/+0 and gains haste until end of turn.
 Dreamwalk {1}{R} (You may cast this spell as a noncreature enchantment for {1}{R}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/9.png" num="36">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/9.png" num="45">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,20 +193,20 @@ Dreamwalk {1}{R} (You may cast this spell as a noncreature enchantment for {1}{R
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB07 Devourer of Echoes</name>
-			<text>When this permanent enters, each opponent discards a card and loses 3 life.
-Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/10.png" num="28">RCR</set>
+			<name>CB08 Devourer of Echoes</name>
+			<text>When this permanent enters, you may sacrifice another enchantment or creature. If you do, draw two cards.
+Dreamwalk {B} (You may cast this spell as a noncreature enchantment for {B}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/10.png" num="32">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Nightmare</type>
+				<type>Enchantment Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>4BB</manacost>
-				<cmc>6</cmc>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -215,7 +215,7 @@ Dreamwalk {1}{B} (You may cast this spell as a noncreature enchantment for {1}{B
 			<text>Flying
 Whenever you attack, untap target attacking creature. It gets +1/+0 until end of turn.
 Dreamwalk {1}{W} (You may cast this spell as a noncreature enchantment for {1}{W}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/11.png" num="5">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/11.png" num="7">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,31 +225,32 @@ Dreamwalk {1}{W} (You may cast this spell as a noncreature enchantment for {1}{W
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB05 Apprentice Endsage</name>
+			<name>CB03 Mothlight Endsage</name>
 			<text>Flying
 When this creature dies, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/12.png" num="26">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/12.png" num="28">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Warlock</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CU11 Foretold Departure</name>
 			<text>Return target nonland permanent to its owner&apos;s hand. If you controlled that permanent, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/13.png" num="19">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/13.png" num="22">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -266,7 +267,7 @@ When this creature dies, create a Dream token. (It&apos;s an enchantment with &q
 			<name>CU14 Dispel Myth</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Counter target spell unless its controller pays {2}. Counter that spell unless its controller pays {4} instead if this spell was bargained.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/14.png" num="22">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/14.png" num="25">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,9 +281,9 @@ Counter target spell unless its controller pays {2}. Counter that spell unless i
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR11 Faith Unto the End</name>
-			<text>Target creature you control gets +3/+0 until end of turn. When that creature dies this turn, create a 2/2 black Zombie creature token.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/15.png" num="38">RCR</set>
+			<name>CR10 Faith Unto the End</name>
+			<text>Target creature you control gets +3/+0 until end of turn. When that creature dies this turn, create a 2/2 green Elemental enchantment creature token.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/15.png" num="47">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -297,8 +298,9 @@ Counter target spell unless its controller pays {2}. Counter that spell unless i
 		</card>
 		<card>
 			<name>CG01 Grove Acolyte</name>
-			<text>Macabre — As long as an enchantment you controlled entered or left the battlefield this turn, this creature gets +2/+1 and has vigilance.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/16.png" num="43">RCR</set>
+			<text>Vigilance
+Macabre — As long as an enchantment you controlled entered or left the battlefield this turn, this creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/16.png" num="53">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -332,7 +334,7 @@ Counter target spell unless its controller pays {2}. Counter that spell unless i
 		<card>
 			<name>CR02 Spark Acolyte</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/18.png" num="33">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/18.png" num="41">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,26 +352,26 @@ Counter target spell unless its controller pays {2}. Counter that spell unless i
 			<name>CG13 Sage&apos;s Blessing</name>
 			<text>Flash
 Enchant creature
-Enchanted creature gets +2/+0 and has trample.
-{2}, Sacrifice this Aura: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/19.png" num="46">RCR</set>
+As long as this Aura entered this turn, enchanted creature has indestructible. 
+When this Aura leaves the battlefield, put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/19.png" num="68">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1G</manacost>
+				<manacost>1G/W</manacost>
 				<cmc>2</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>CB02 Cult Gloryseeker</name>
-			<text>Haste
-Whenever you cast your second spell on each of your turns, this creature gets +2/+0 and can&apos;t be blocked until end of turn.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/20.png" num="25">RCR</set>
+			<text>Deathtouch
+Whenever you cast your second spell on each of your turns, this creature gets +2/+0 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/20.png" num="27">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -387,7 +389,7 @@ Whenever you cast your second spell on each of your turns, this creature gets +2
 			<name>CU12 Forbidden Histories</name>
 			<text>This spell costs {1} less to cast if you&apos;ve cast another spell this turn.
 Scry 1, then draw two cards. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/21.png" num="20">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/21.png" num="23">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -401,28 +403,28 @@ Scry 1, then draw two cards. (To scry 1, look at the top card of your library. Y
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW02 Erase Unreality</name>
+			<name>CW02 Bureau Eraser</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
-Choose one. If this spell was bargained, choose two —
-• Create a 2/1 white Warlock creature token. 
-• Destroy target artifact or enchantment.</text>
+When this creature enters, if it was bargained, destroy target noncreature artifact or enchantment.</text>
 			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/22.png" num="2">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CR05 Crimson-Pledge Attendant</name>
-			<text>Whenever this creature attacks, if you&apos;ve sacrificed a nonland permanent this turn, it gets +2/+0 and gains menace end of turn.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/23.png" num="34">RCR</set>
+			<text>Trample
+Macabre — This creature gets +2/+0 as long as an enchantment you controlled entered or left the battlefield this turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/23.png" num="42">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -438,8 +440,9 @@ Choose one. If this spell was bargained, choose two —
 		</card>
 		<card>
 			<name>CG05 Verdant Awakener</name>
-			<text>When this creature enters, up to one other target creature or non-Aura enchantment you control becomes a 3/3 Elemental creature in addition to its other types until this creature leaves the battlefield.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/24.png" num="44">RCR</set>
+			<text>Trample
+Whenever another creature or enchantment you control enters, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/24.png" num="55">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -449,14 +452,14 @@ Choose one. If this spell was bargained, choose two —
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CU02 Scribe&apos;s Attendant</name>
 			<text>The first noncreature spell you cast on each of your turns costs {1} less to cast.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/25.png" num="10">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/25.png" num="15">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -474,7 +477,7 @@ Choose one. If this spell was bargained, choose two —
 			<name>CB14 Final Vengeance</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or enchantment.
 Exile target creature.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/26.png" num="31">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/26.png" num="38">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -488,11 +491,9 @@ Exile target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB13 Enchant Removal</name>
-			<text>Choose one —
-• Destroy target creature. Its controller loses 2 life.
-• Destroy target enchantment. You lose 2 life.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/27.png" num="30">RCR</set>
+			<name>CB13 Necrotic Scouring</name>
+			<text>Destroy target creature or enchantment. If an enchantment was destroyed this way, you lose 2 life.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/27.png" num="37">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -509,7 +510,7 @@ Exile target creature.</text>
 			<name>CR14 Nihilopyresis</name>
 			<text>Nihilopyresis deals 4 damage to target creature. 
 You may sacrifice an artifact or enchantment. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/28.png" num="41">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/28.png" num="51">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -523,16 +524,16 @@ You may sacrifice an artifact or enchantment. If you do, draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CG14 Bite Spell</name>
-			<text>Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to target creature an opponent controls.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/29.png" num="47">RCR</set>
+			<name>CG14 Assert Perfection</name>
+			<text>Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to up to one target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/29.png" num="63">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -558,14 +559,14 @@ You may sacrifice an artifact or enchantment. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>CU10 Unleash Interiority</name>
-			<text>Target creature or non-Aura enchantment you control becomes a 4/4 enchantment creature in addition to its other types and gains flying until end of turn. 
+			<text>Until end of turn, target non-Aura enchantment or creature becomes an enchantment creature with base power and toughness 4/4 and gains flying.
 Draw a card.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/31.png" num="18">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/31.png" num="21">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
@@ -577,7 +578,7 @@ Draw a card.</text>
 			<name>CR06 Manathirst Titan</name>
 			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this permanent.
 Dreamwalk {R} (You may cast this spell as a noncreature enchantment for {R}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/32.png" num="35">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/32.png" num="43">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -592,18 +593,16 @@ Dreamwalk {R} (You may cast this spell as a noncreature enchantment for {R}. Tur
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR13 Abrade</name>
-			<text>Choose one —
-• Abrade deals 3 damage to target creature.
-• Destroy target artifact.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/33.png" num="40">RCR</set>
+			<name>CR13 Ablate Identity</name>
+			<text>Ablate Identity deals 6 damage to target creature. If excess damage was dealt this way, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/33.png" num="50">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -611,9 +610,9 @@ Dreamwalk {R} (You may cast this spell as a noncreature enchantment for {R}. Tur
 		</card>
 		<card>
 			<name>CR12 Empowering Mantra</name>
-			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
-Creatures you control get +2/+0 until end of turn. If this spell was bargained, target creature gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/34.png" num="39">RCR</set>
+			<text>Creatures you control get +2/+0 until end of turn. 
+Macabre — If an enchantment you controlled entered or left the battlefield this turn, those creatures also gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/34.png" num="49">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -627,35 +626,19 @@ Creatures you control get +2/+0 until end of turn. If this spell was bargained, 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR10 ???</name>
-			<text></text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/35.png" num="37">RCR</set>
+			<name>CR11 Dream Spike</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Dream Spike deals 2 damage to any target. If this spell was bargained, it deals 3 damage instead.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/35.png" num="48">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>CU99 Bury In History</name>
-			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library. 
-Scry 2.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/36.png" num="24">RCR</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -663,7 +646,7 @@ Scry 2.</text>
 			<name>CU13 Witness Protection</name>
 			<text>Enchant creature 
 Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/37.png" num="21">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/36.png" num="24">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -680,11 +663,11 @@ Enchanted creature loses all abilities and is a green and white Citizen creature
 			<name>CU01 Levitating Moonseer</name>
 			<text>Flying
 When this creature enters, up to one target creature gets -2/-0 and loses flying until your next turn.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/38.png" num="9">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/37.png" num="14">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -697,7 +680,7 @@ When this creature enters, up to one target creature gets -2/-0 and loses flying
 		<card>
 			<name>CW14 Banishing Light</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/39.png" num="7">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/38.png" num="12">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -714,7 +697,7 @@ When this creature enters, up to one target creature gets -2/-0 and loses flying
 			<name>CW13 Magnificent End</name>
 			<text>This spell costs {3} less to cast if it targets a tapped creature.
 Magnificent End deals 5 damage to target creature.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/40.png" num="6">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/39.png" num="11">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -728,28 +711,28 @@ Magnificent End deals 5 damage to target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU03 Channel The Bounds</name>
-			<text>Choose one. If you control an enchantment creature, choose two—
-• Create a 1/3 blue Nightmare creature token. Scry 1.
-• Target creature can&apos;t be blocked this turn. Draw a card.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/41.png" num="11">RCR</set>
+			<name>CU03 Bounds Explorer</name>
+			<text>When this creature enters, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)
+{UB}, Sacrifice a Dream: Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/40.png" num="71">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1U</manacost>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/B</manacost>
 				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CU07 New-Moon Diviner</name>
 			<text>Flying
-When this creature enters, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/42.png" num="15">RCR</set>
+Whenever this creature attacks, if you don&apos;t control a Dream, create a Dream token. (It&apos;s an enchantment with &quot;{3}, Sacrifice this token: Scry 2, then draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/41.png" num="18">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -759,7 +742,7 @@ When this creature enters, create a Dream token. (It&apos;s an enchantment with 
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -769,16 +752,16 @@ When this creature enters, create a Dream token. (It&apos;s an enchantment with 
 When this creature enters, choose one —
 • Tap target creature.
 • Target creature gains hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/43.png" num="13">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/42.png" num="72">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
+				<manacost>2W/U</manacost>
 				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -787,7 +770,7 @@ When this creature enters, choose one —
 			<name>CU06 Bounds Guardian</name>
 			<text>When this permanent enters, return up to one target creature to its owner&apos;s hand. 
 Dreamwalk {U} (You may cast this spell as a noncreature enchantment for {U}. Turn it into a creature any time on your turn for its mana cost.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/44.png" num="14">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/43.png" num="17">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -804,9 +787,9 @@ Dreamwalk {U} (You may cast this spell as a noncreature enchantment for {U}. Tur
 		<card>
 			<name>CU09 Sleepwalker&apos;s Bane</name>
 			<text>Vigilance
-Whenever this creature attacks, you may pay {2}. If you do, scry 2.
-Islandcycling {2}({2}, Discard this card: Search your library for a basic Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/45.png" num="17">RCR</set>
+This creature gets +3/+0 as long as there are three or more noncreature cards in your graveyard.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/44.png" num="20">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -816,7 +799,7 @@ Islandcycling {2}({2}, Discard this card: Search your library for a basic Island
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/6</pt>
+				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -824,7 +807,7 @@ Islandcycling {2}({2}, Discard this card: Search your library for a basic Island
 			<name>CU04 Starlight Channeller</name>
 			<text>Defender
 As long as you&apos;ve scried or surveiled this turn, this creature can attack as though it didn&apos;t have defender and has vigilance.</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/46.png" num="12">RCR</set>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/45.png" num="16">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -839,10 +822,9 @@ As long as you&apos;ve scried or surveiled this turn, this creature can attack a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB11 Mind Rot</name>
-			<text>Target opponent discards two cards.
-Macabre — If an enchantment you controlled entered or left the battlefield this turn,</text>
-			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/47.png" num="29">RCR</set>
+			<name>CB11 Memory Redaction</name>
+			<text>Target opponent discards two cards. If a land card was discarded this way, create a 1/1 red Spirit creature token with flying and &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/46.png" num="35">RCR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -854,6 +836,560 @@ Macabre — If an enchantment you controlled entered or left the battlefield thi
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG06 Bounds Mortician</name>
+			<text>Reach
+Macabre — At the beginning of your end step, if an enchantment you controlled entered or left the battlefield this turn, scry 1.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/47.png" num="56">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Balanced Twin-Spirit</name>
+			<text>When this creature enters, create a 2/2 green Elemental enchantment creature token.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/48.png" num="6">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Moonchaser Sage</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/49.png" num="70">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Wandering Shepherd</name>
+			<text>Lifelink
+When this creature enters, create a 1/1 red Spirit creature token with &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/50.png" num="29">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Afterlife Emissary</name>
+			<text>When this creature dies, create a 1/1 red Spirit creature token with flying and &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/51.png" num="65">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Leyline Cultivator</name>
+			<text>Reach
+{T}: Add {R} or {G}.
+{3}{RG}{RG}, Sacrifice this creature: Create two 2/2 green Elemental enchantment creature tokens. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/52.png" num="69">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Sacrament Taker</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, put a +1/+1 counter on target creature. It gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/53.png" num="73">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Soaring Soul-Blesser</name>
+			<text>Flying
+Whenever another creature or enchantment you control dies, you gain 1 life.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/54.png" num="4">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Avenger of The Lost</name>
+			<text>Whenever this creature attacks, other creatures you control get +1/+1 until end of turn.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/55.png" num="8">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 Congregation Healer</name>
+			<text>Vigilance
+Macabre — As long as an enchantment you controlled entered or left the battlefield this turn, this creature has lifelink.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/56.png" num="74">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Moment of Clarity</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Target creature you control gets +2/+0 and gains first strike until end of turn. If this spell was bargained, instead put two +1/+1 counters on that creature and it gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/57.png" num="10">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW11 Runeward Jolt</name>
+			<text>Runeward Jolt deals X damage to target attacking or blocking creature, where X is 2 plus the number of enchantments you control. 
+Scry 1.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/58.png" num="9">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB05 Cryptic Eulogist</name>
+			<text>Macabre — At the beginning of your end step, if an enchantment you controlled entered or left the battlefield this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/59.png" num="66">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB12 Undying Malice</name>
+			<text>Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a +1/+1 counter on it.&quot;</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/60.png" num="36">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB06 Clever Ascendant</name>
+			<text>Macabre — As long as an enchantment you controlled entered or left the battlefield this turn, this creature has flying.
+{2}{B}, Sacrifice another creature or enchantment: Draw a card.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/61.png" num="30">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Recurring Nightmare</name>
+			<text>{B}{B}: Return this card from your graveyard to your hand. Activate only if you sacrificed a permanent this turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/62.png" num="33">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Read The Bones</name>
+			<text>Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/63.png" num="34">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG07 Unmaker of Masks</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, destroy up to one target artifact, enchantment, or creature with flying.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/64.png" num="57">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Venomous Dreamer</name>
+			<text>Deathtouch
+As long as you control an enchantment creature, this creature gets +2/+0.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/65.png" num="54">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Animist&apos;s Plea</name>
+			<text>Choose one —
+• Create a 2/2 green Elemental enchantment creature token.
+• Put two +1/+1 counters on target non-Aura enchantment you control. It becomes a 0/0 Elemental creature in addition to its other types.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/66.png" num="67">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 Fanatical Strength</name>
+			<text>Target creature gets +3/+3 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/67.png" num="62">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR01 Mothlight Reveler</name>
+			<text>Haste
+When you sacrifice this creature, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/68.png" num="40">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Dreamdelver Adept</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Menace
+When this creature enters, if it was bargained, exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/69.png" num="44">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Summoned Inferno</name>
+			<text>Trample
+{2}{R}, Sacrifice a land: Draw a card.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/70.png" num="46">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Sift For The Self</name>
+			<text>Mill three cards. You may put a permanent card from among the cards milled this way into your hand.
+Macabre — If an enchantment you controlled entered or left the battlefield this turn, this spell costs {1} less to cast.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/71.png" num="61">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG09 Maze Apparition</name>
+			<text>Trample
+When this permanent enters and when it becomes a creature, put a +1/+1 counter on target creature or enchantment you control.
+Dreamwalk {1}{G} (You may cast this spell as a noncreature enchantment for {1}{G}. Turn it into a creature any time on your turn for its mana cost.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/72.png" num="59">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 Perennial Spectre</name>
+			<text>When this creature enters, return target permanent card with mana value 3 or less from your graveyard to your hand.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/73.png" num="60">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA01 Awakened Statue</name>
+			<text>When this creature dies, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/74.png" num="75">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA02 Templeguard Golem</name>
+			<text>When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/75.png" num="76">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA03 Thunderbird Golem</name>
+			<text>When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+As long as you control an enchantment creature, this creature has flying.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/76.png" num="77">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA05 Dreamscape Pylon</name>
+			<text>{T}: Add one mana of any color.
+{T}: Put a lore counter on target Invocation you control.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/77.png" num="79">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA04 Ancient Glyphtrap</name>
+			<text>When you sacrifice this artifact, you draw a card and gain 2 life.
+{5}, {T}, Sacrifice this artifact: Destroy target creature or enchantment with mana value 4 or less.</text>
+			<set rarity="common" picurl="https://guest1300.github.io/sets/RCR-files/img/78.png" num="78">RCR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

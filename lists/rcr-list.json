@@ -9,38 +9,38 @@
     },
     {
         "card_name": "CU01 Levitating Moonseer",
-        "number": 9,
+        "number": 14,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "CB02 Cult Gloryseeker",
-        "number": 25,
+        "number": 27,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "20"
     },
     {
-        "card_name": "CR02 Spark Acolyte",
-        "number": 33,
+        "card_name": "CR01 Mothlight Reveler",
+        "number": 40,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "18"
+        "position": "68"
     },
     {
         "card_name": "CG01 Grove Acolyte",
-        "number": 43,
+        "number": 53,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "16"
     },
     {
-        "card_name": "CW02 Erase Unreality",
+        "card_name": "CW02 Bureau Eraser",
         "number": 2,
         "shape": "normal",
         "set": "rcr",
@@ -49,35 +49,35 @@
     },
     {
         "card_name": "CU02 Scribe's Attendant",
-        "number": 10,
+        "number": 15,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "25"
     },
     {
-        "card_name": "CB05 Apprentice Endsage",
-        "number": 26,
+        "card_name": "CB03 Mothlight Endsage",
+        "number": 28,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "12"
     },
     {
-        "card_name": "CR05 Crimson-Pledge Attendant",
-        "number": 34,
+        "card_name": "CR02 Spark Acolyte",
+        "number": 41,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "23"
+        "position": "18"
     },
     {
-        "card_name": "CG05 Verdant Awakener",
-        "number": 44,
+        "card_name": "CG02 Venomous Dreamer",
+        "number": 54,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "24"
+        "position": "65"
     },
     {
         "card_name": "CW03 Ritual Witness",
@@ -88,56 +88,136 @@
         "position": "30"
     },
     {
-        "card_name": "CU03 Channel The Bounds",
-        "number": 11,
+        "card_name": "CU04 Starlight Channeller",
+        "number": 16,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "41"
+        "position": "45"
     },
     {
-        "card_name": "CB06 Mazewall Spookster",
-        "number": 27,
+        "card_name": "CB04 Wandering Shepherd",
+        "number": 29,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "7"
+        "position": "50"
+    },
+    {
+        "card_name": "CR05 Crimson-Pledge Attendant",
+        "number": 42,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "CG05 Verdant Awakener",
+        "number": 55,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "CW04 Soaring Soul-Blesser",
+        "number": 4,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "CU06 Bounds Guardian",
+        "number": 17,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "CB06 Clever Ascendant",
+        "number": 30,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "61"
     },
     {
         "card_name": "CR06 Manathirst Titan",
-        "number": 35,
+        "number": 43,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "32"
     },
     {
-        "card_name": "CG08 Unbound Horror",
-        "number": 45,
+        "card_name": "CG06 Bounds Mortician",
+        "number": 56,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "8"
+        "position": "47"
     },
     {
         "card_name": "CW06 Gatekeeper Spirit",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "5"
     },
     {
-        "card_name": "CU04 Starlight Channeller",
-        "number": 12,
+        "card_name": "CU07 New-Moon Diviner",
+        "number": 18,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "46"
+        "position": "41"
     },
     {
-        "card_name": "CB07 Devourer of Echoes",
-        "number": 28,
+        "card_name": "CB07 Mazewall Spookster",
+        "number": 31,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "CR07 Dreamdelver Adept",
+        "number": 44,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "CG07 Unmaker of Masks",
+        "number": 57,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "CW07 Balanced Twin-Spirit",
+        "number": 6,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "CU08 Threshold Spectre",
+        "number": 19,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "CB08 Devourer of Echoes",
+        "number": 32,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -145,212 +225,287 @@
     },
     {
         "card_name": "CR08 Vengeful Avatar",
-        "number": 36,
+        "number": 45,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "9"
     },
     {
-        "card_name": "CG13 Sage's Blessing",
-        "number": 46,
+        "card_name": "CG08 Unbound Horror",
+        "number": 58,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "19"
+        "position": "8"
     },
     {
         "card_name": "CW09 Inspiriting Apparition",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "11"
     },
     {
-        "card_name": "CU05 Dreamshield Mage",
-        "number": 13,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "43"
-    },
-    {
-        "card_name": "CB11 Mind Rot",
-        "number": 29,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "47"
-    },
-    {
-        "card_name": "CR10 ???",
-        "number": 37,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "35"
-    },
-    {
-        "card_name": "CG14 Bite Spell",
-        "number": 47,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "29"
-    },
-    {
-        "card_name": "CW13 Magnificent End",
-        "number": 6,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "40"
-    },
-    {
-        "card_name": "CU06 Bounds Guardian",
-        "number": 14,
+        "card_name": "CU09 Sleepwalker's Bane",
+        "number": 20,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "44"
     },
     {
-        "card_name": "CB13 Enchant Removal",
-        "number": 30,
+        "card_name": "CB09 Recurring Nightmare",
+        "number": 33,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "27"
+        "position": "62"
     },
     {
-        "card_name": "CR11 Faith Unto the End",
-        "number": 38,
+        "card_name": "CR09 Summoned Inferno",
+        "number": 46,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "15"
+        "position": "70"
     },
     {
-        "card_name": "CG15 Dream of the Maze",
-        "number": 48,
-        "shape": "saga",
-        "set": "rcr",
-        "rotated": false,
-        "position": "0"
-    },
-    {
-        "card_name": "CW14 Banishing Light",
-        "number": 7,
+        "card_name": "CG09 Maze Apparition",
+        "number": 59,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "39"
+        "position": "72"
     },
     {
-        "card_name": "CU07 New-Moon Diviner",
-        "number": 15,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "42"
-    },
-    {
-        "card_name": "CB14 Final Vengeance",
-        "number": 31,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "26"
-    },
-    {
-        "card_name": "CR12 Empowering Mantra",
-        "number": 39,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "34"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CW15 Liturgy of Sealing",
+        "card_name": "CW10 Avenger of The Lost",
         "number": 8,
-        "shape": "saga",
-        "set": "rcr",
-        "rotated": false,
-        "position": "2"
-    },
-    {
-        "card_name": "CU08 Threshold Spectre",
-        "number": 16,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "6"
-    },
-    {
-        "card_name": "CB15 Pact of Unmaking",
-        "number": 32,
-        "shape": "saga",
-        "set": "rcr",
-        "rotated": false,
-        "position": "3"
-    },
-    {
-        "card_name": "CR13 Abrade",
-        "number": 40,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "33"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU09 Sleepwalker's Bane",
-        "number": 17,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "45"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CR14 Nihilopyresis",
-        "number": 41,
-        "shape": "normal",
-        "set": "rcr",
-        "rotated": false,
-        "position": "28"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "55"
     },
     {
         "card_name": "CU10 Unleash Interiority",
-        "number": 18,
+        "number": 21,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
         "position": "31"
     },
     {
-        "card_name": "e"
+        "card_name": "CB10 Read The Bones",
+        "number": 34,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "CR10 Faith Unto the End",
+        "number": 47,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "CG10 Perennial Spectre",
+        "number": 60,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "CW11 Runeward Jolt",
+        "number": 9,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "CU11 Foretold Departure",
+        "number": 22,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "CB11 Memory Redaction",
+        "number": 35,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "CR11 Dream Spike",
+        "number": 48,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "CG11 Sift For The Self",
+        "number": 61,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "CW12 Moment of Clarity",
+        "number": 10,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "CU12 Forbidden Histories",
+        "number": 23,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "CB12 Undying Malice",
+        "number": 36,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "CR12 Empowering Mantra",
+        "number": 49,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "CG12 Fanatical Strength",
+        "number": 62,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "CW13 Magnificent End",
+        "number": 11,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "CU13 Witness Protection",
+        "number": 24,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "CB13 Necrotic Scouring",
+        "number": 37,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "CR13 Ablate Identity",
+        "number": 50,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "CG14 Assert Perfection",
+        "number": 63,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CW14 Banishing Light",
+        "number": 12,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "CU14 Dispel Myth",
+        "number": 25,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "CB14 Final Vengeance",
+        "number": 38,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "CR14 Nihilopyresis",
+        "number": 51,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "CG15 Dream of the Maze",
+        "number": 64,
+        "shape": "saga",
+        "set": "rcr",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CW15 Liturgy of Sealing",
+        "number": 13,
+        "shape": "saga",
+        "set": "rcr",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "CU15 Winterchill Rite",
+        "number": 26,
+        "shape": "saga",
+        "set": "rcr",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "CB15 Pact of Unmaking",
+        "number": 39,
+        "shape": "saga",
+        "set": "rcr",
+        "rotated": false,
+        "position": "3"
     },
     {
         "card_name": "CR15 Words of Opening",
-        "number": 42,
+        "number": 52,
         "shape": "saga",
         "set": "rcr",
         "rotated": false,
@@ -360,124 +515,165 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "CU11 Foretold Departure",
-        "number": 19,
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "CU05 Dreamshield Mage",
+        "number": 72,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "13"
+        "position": "42"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU12 Forbidden Histories",
-        "number": 20,
+        "card_name": "CU03 Bounds Explorer",
+        "number": 71,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "21"
+        "position": "40"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU13 Witness Protection",
-        "number": 21,
+        "card_name": "CB01 Afterlife Emissary",
+        "number": 65,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "37"
+        "position": "51"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU14 Dispel Myth",
-        "number": 22,
+        "card_name": "CR03 Leyline Cultivator",
+        "number": 69,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "14"
+        "position": "52"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU15 Winterchill Rite",
-        "number": 23,
-        "shape": "saga",
-        "set": "rcr",
-        "rotated": false,
-        "position": "4"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU99 Bury In History",
-        "number": 24,
+        "card_name": "CG13 Sage's Blessing",
+        "number": 68,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "36"
+        "position": "19"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CW08 Congregation Healer",
+        "number": 74,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "CR04 Moonchaser Sage",
+        "number": 70,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "CB05 Cryptic Eulogist",
+        "number": 66,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "CW05 Sacrament Taker",
+        "number": 73,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "CG03 Animist's Plea",
+        "number": 67,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "CA01 Awakened Statue",
+        "number": 75,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "CA02 Templeguard Golem",
+        "number": 76,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "CA03 Thunderbird Golem",
+        "number": 77,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "CA04 Ancient Glyphtrap",
+        "number": 78,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "CA05 Dreamscape Pylon",
+        "number": 79,
+        "shape": "normal",
+        "set": "rcr",
+        "rotated": false,
+        "position": "77"
     },
     {
         "card_name": "er"

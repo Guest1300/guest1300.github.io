@@ -1,4 +1,153 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CB07 Mazewall Spookster added.
+CB08 Devourer of Echoes added.
+CB03 Mothlight Endsage added.
+CR10 Faith Unto the End added.
+CW02 Bureau Eraser added.
+CB13 Necrotic Scouring added.
+CG14 Assert Perfection added.
+CR13 Ablate Identity added.
+CR11 Dream Spike added.
+CU03 Bounds Explorer added.
+CB11 Memory Redaction added.
+CG06 Bounds Mortician added.
+CW07 Balanced Twin-Spirit added.
+CR04 Moonchaser Sage added.
+CB04 Wandering Shepherd added.
+CB01 Afterlife Emissary added.
+CR03 Leyline Cultivator added.
+CW05 Sacrament Taker added.
+CW04 Soaring Soul-Blesser added.
+CW10 Avenger of The Lost added.
+CW08 Congregation Healer added.
+CW12 Moment of Clarity added.
+CW11 Runeward Jolt added.
+CB05 Cryptic Eulogist added.
+CB12 Undying Malice added.
+CB06 Clever Ascendant added.
+CB09 Recurring Nightmare added.
+CB10 Read The Bones added.
+CG07 Unmaker of Masks added.
+CG02 Venomous Dreamer added.
+CG03 Animist's Plea added.
+CG12 Fanatical Strength added.
+CR01 Mothlight Reveler added.
+CR07 Dreamdelver Adept added.
+CR09 Summoned Inferno added.
+CG11 Sift For The Self added.
+CG09 Maze Apparition added.
+CG10 Perennial Spectre added.
+CA01 Awakened Statue added.
+CA02 Templeguard Golem added.
+CA03 Thunderbird Golem added.
+CA05 Dreamscape Pylon added.
+CA04 Ancient Glyphtrap added.
+
+CB06 Mazewall Spookster removed.
+CB07 Devourer of Echoes removed.
+CB05 Apprentice Endsage removed.
+CR11 Faith Unto the End removed.
+CW02 Erase Unreality removed.
+CB13 Enchant Removal removed.
+CG14 Bite Spell removed.
+CR13 Abrade removed.
+CR10 ??? removed.
+CU99 Bury In History removed.
+CU03 Channel The Bounds removed.
+CB11 Mind Rot removed.
+
+CU08 Threshold Spectre
+rules_text: Whenever one or more enchantment creatures you control deal combat damage to a player, you may draw a card. If you do, discard a card.
+Dreamwalk {1}{U} [i](You may cast this spell as a noncreature enchantment for {1}{U}. Turn it into a creature any time on your turn for its mana cost.)[/i] => Whenever one or more enchantment creatures you control attack, you may draw a card. If you do, discard a card.
+Dreamwalk {1}{U} [i](You may cast this spell as a noncreature enchantment for {1}{U}. Turn it into a creature any time on your turn for its mana cost.)[/i]
+pt: 3/5 => 4/5
+
+CG08 Unbound Horror
+cost: {3}{G}{G} => {2}{G}{G}
+rules_text: Reach
+When this permanent enters, mill four cards, then you may return a permanent card milled this way to your hand.
+Dreamwalk {1}{G} [i](You may cast this spell as a noncreature enchantment for {1}{G}. Turn it into a creature any time on your turn for its mana cost.)[/i] => Vigilance
+Enchantment creatures you control can't be blocked by creatures with power 2 or less.
+Dreamwalk {G} [i](You may cast this spell as a noncreature enchantment for {G}. Turn it into a creature any time on your turn for its mana cost.)[/i]
+
+CW09 Inspiriting Apparition
+pt:  => 3/5
+
+CG01 Grove Acolyte
+rules_text: [i]Macabre[/i] — As long as an enchantment you controlled entered or left the battlefield this turn, this creature gets +2/+1 and has vigilance. => Vigilance
+[i]Macabre[/i] — As long as an enchantment you controlled entered or left the battlefield this turn, this creature gets +1/+1.
+
+CG13 Sage's Blessing
+cost: {1}{G} => {1}{GW}
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+{2}, Sacrifice this Aura: Destroy target artifact or enchantment. Activate only as a sorcery. => Flash
+Enchant creature
+As long as this Aura entered this turn, enchanted creature has indestructible. 
+When this Aura leaves the battlefield, put a +1/+1 counter on up to one target creature.
+
+CB02 Cult Gloryseeker
+rules_text: Haste
+Whenever you cast your second spell on each of your turns, this creature gets +2/+0 and can't be blocked until end of turn. => Deathtouch
+Whenever you cast your second spell on each of your turns, this creature gets +2/+0 and gains menace until end of turn.
+
+CR05 Crimson-Pledge Attendant
+rules_text: Whenever this creature attacks, if you've sacrificed a nonland permanent this turn, it gets +2/+0 and gains menace end of turn. => Trample
+[i]Macabre[/i] — This creature gets +2/+0 as long as an enchantment you controlled entered or left the battlefield this turn.
+
+CG05 Verdant Awakener
+rules_text: When this creature enters, up to one other target creature or non-Aura enchantment you control becomes a 3/3 Elemental creature in addition to its other types until this creature leaves the battlefield. => Trample
+Whenever another creature or enchantment you control enters, this creature gets +1/+0 until end of turn.
+pt: 1/4 => 2/3
+
+CB14 Final Vengeance
+
+CU10 Unleash Interiority
+type: Sorcery => Instant
+rules_text: Target creature or non-Aura enchantment you control becomes a 4/4 enchantment creature in addition to its other types and gains flying until end of turn. 
+Draw a card. => Until end of turn, target non-Aura enchantment or creature becomes an enchantment creature with base power and toughness 4/4 and gains flying.
+Draw a card.
+
+CR12 Empowering Mantra
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Creatures you control get +2/+0 until end of turn. If this spell was bargained, target creature gains trample until end of turn. => Creatures you control get +2/+0 until end of turn. 
+[i]Macabre[/i] — If an enchantment you controlled entered or left the battlefield this turn, those creatures also gain trample until end of turn.
+
+CU13 Witness Protection
+
+CU01 Levitating Moonseer
+type: Creature => Creature — Human Wizard
+
+CW14 Banishing Light
+
+CW13 Magnificent End
+
+CU07 New-Moon Diviner
+rules_text: Flying
+When this creature enters, create a Dream token. [i](It's an enchantment with “{3}, Sacrifice this token: Scry 2, then draw a card.”)[/i] => Flying
+Whenever this creature attacks, if you don't control a Dream, create a Dream token. [i](It's an enchantment with “{3}, Sacrifice this token: Scry 2, then draw a card.”)[/i]
+pt: 3/4 => 3/3
+
+CU05 Dreamshield Mage
+cost: {2}{U} => {2}{WU}
+
+CU06 Bounds Guardian
+
+CU09 Sleepwalker's Bane
+rules_text: Vigilance
+Whenever this creature attacks, you may pay {2}. If you do, scry 2.
+Islandcycling {2}[i]({2}, Discard this card: Search your library for a basic Island card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+This creature gets +3/+0 as long as there are three or more noncreature cards in your graveyard.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 5/6 => 3/6
+
+CU04 Starlight Channeller
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
