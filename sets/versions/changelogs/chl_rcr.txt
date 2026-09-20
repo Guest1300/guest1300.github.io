@@ -1,4 +1,32 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CG04 Spiteful Crone added.
+
+
+CG08 Unbound Horror
+rules_text: Vigilance
+Enchantment creatures you control can't be blocked by creatures with power 2 or less.
+Dreamwalk {G} [i](You may cast this spell as a noncreature enchantment for {G}. Turn it into a creature any time on your turn for its mana cost.)[/i] => Enchantment creatures you control can't be blocked by creatures with power 2 or less.
+Dreamwalk {G} [i](You may cast this spell as a noncreature enchantment for {G}. Turn it into a creature any time on your turn for its mana cost.)[/i]
+
+CW05 Sacrament Taker
+cost: {2}{RW} => {1}{RW}
+pt: 3/2 => 2/1
+
+CW04 Soaring Soul-Blesser
+rules_text: Flying
+Whenever another creature or enchantment you control dies, you gain 1 life. => Flying
+Whenever another creature or enchantment you control dies, scry 1.
+
+CG07 Unmaker of Masks
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+When this creature enters, if it was bargained, destroy up to one target artifact, enchantment, or creature with flying. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+When this creature enters, if it was bargained, create a 2/2 green Elemental enchantment creature token.
+pt: 4/3 => 3/3
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CB07 Mazewall Spookster added.

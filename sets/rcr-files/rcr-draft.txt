@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Invocation",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/0.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/8.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/19.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/24.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/29.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/40.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/42.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/47.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/49.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/52.png"
 			}
@@ -533,9 +533,9 @@
 		{
 			"name": "CW05 Sacrament Taker",
 			"rarity": "common",
-			"mana_cost": "{2}{R/W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/53.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W/B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/56.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/59.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/64.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/67.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment Creature — Elemental",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment Creature — Elemental",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/75.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/77.png"
 			}
@@ -785,9 +785,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://guest1300.github.io/sets/RCR-files/img/78.png"
+			}
+		},
+		{
+			"name": "CG04 Spiteful Crone",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://guest1300.github.io/sets/RCR-files/img/79.png"
 			}
 		}
 	]
@@ -874,6 +884,7 @@
 	8 CA03 Thunderbird Golem
 	8 CA05 Dreamscape Pylon
 	8 CA04 Ancient Glyphtrap
+	8 CG04 Spiteful Crone
 [common | masterpiece(1)]
 	8 CG15 Dream of the Maze
 	8 CR15 Words of Opening
@@ -954,6 +965,7 @@
 	8 CA03 Thunderbird Golem
 	8 CA05 Dreamscape Pylon
 	8 CA04 Ancient Glyphtrap
+	8 CG04 Spiteful Crone
 [foil(1)]
 	12 CG15 Dream of the Maze
 	12 CR15 Words of Opening
@@ -1034,6 +1046,7 @@
 	12 CA03 Thunderbird Golem
 	12 CA05 Dreamscape Pylon
 	12 CA04 Ancient Glyphtrap
+	12 CG04 Spiteful Crone
 [wildcard(1)]
 	6 CG15 Dream of the Maze
 	6 CR15 Words of Opening
@@ -1114,3 +1127,4 @@
 	6 CA03 Thunderbird Golem
 	6 CA05 Dreamscape Pylon
 	6 CA04 Ancient Glyphtrap
+	6 CG04 Spiteful Crone

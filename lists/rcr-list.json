@@ -112,12 +112,12 @@
         "position": "23"
     },
     {
-        "card_name": "CG05 Verdant Awakener",
+        "card_name": "CG04 Spiteful Crone",
         "number": 55,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "24"
+        "position": "79"
     },
     {
         "card_name": "CW04 Soaring Soul-Blesser",
@@ -152,12 +152,12 @@
         "position": "32"
     },
     {
-        "card_name": "CG06 Bounds Mortician",
+        "card_name": "CG05 Verdant Awakener",
         "number": 56,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "47"
+        "position": "24"
     },
     {
         "card_name": "CW06 Gatekeeper Spirit",
@@ -192,12 +192,12 @@
         "position": "69"
     },
     {
-        "card_name": "CG07 Unmaker of Masks",
+        "card_name": "CG06 Bounds Mortician",
         "number": 57,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "64"
+        "position": "47"
     },
     {
         "card_name": "CW07 Balanced Twin-Spirit",
@@ -232,12 +232,12 @@
         "position": "9"
     },
     {
-        "card_name": "CG08 Unbound Horror",
+        "card_name": "CG07 Unmaker of Masks",
         "number": 58,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "8"
+        "position": "64"
     },
     {
         "card_name": "CW09 Inspiriting Apparition",
@@ -272,12 +272,12 @@
         "position": "70"
     },
     {
-        "card_name": "CG09 Maze Apparition",
+        "card_name": "CG08 Unbound Horror",
         "number": 59,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "72"
+        "position": "8"
     },
     {
         "card_name": "CW10 Avenger of The Lost",
@@ -312,12 +312,12 @@
         "position": "15"
     },
     {
-        "card_name": "CG10 Perennial Spectre",
+        "card_name": "CG09 Maze Apparition",
         "number": 60,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "73"
+        "position": "72"
     },
     {
         "card_name": "CW11 Runeward Jolt",
@@ -352,12 +352,12 @@
         "position": "35"
     },
     {
-        "card_name": "CG11 Sift For The Self",
+        "card_name": "CG10 Perennial Spectre",
         "number": 61,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "71"
+        "position": "73"
     },
     {
         "card_name": "CW12 Moment of Clarity",
@@ -392,12 +392,12 @@
         "position": "34"
     },
     {
-        "card_name": "CG12 Fanatical Strength",
+        "card_name": "CG11 Sift For The Self",
         "number": 62,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "67"
+        "position": "71"
     },
     {
         "card_name": "CW13 Magnificent End",
@@ -432,12 +432,12 @@
         "position": "33"
     },
     {
-        "card_name": "CG14 Assert Perfection",
+        "card_name": "CG12 Fanatical Strength",
         "number": 63,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "29"
+        "position": "67"
     },
     {
         "card_name": "CW14 Banishing Light",
@@ -472,12 +472,12 @@
         "position": "28"
     },
     {
-        "card_name": "CG15 Dream of the Maze",
+        "card_name": "CG14 Assert Perfection",
         "number": 64,
-        "shape": "saga",
+        "shape": "normal",
         "set": "rcr",
         "rotated": false,
-        "position": "0"
+        "position": "29"
     },
     {
         "card_name": "CW15 Liturgy of Sealing",
@@ -512,7 +512,12 @@
         "position": "1"
     },
     {
-        "card_name": "e"
+        "card_name": "CG15 Dream of the Maze",
+        "number": 65,
+        "shape": "saga",
+        "set": "rcr",
+        "rotated": false,
+        "position": "0"
     },
     {
         "card_name": "er"
@@ -529,7 +534,7 @@
     "a->gold",
     {
         "card_name": "CU05 Dreamshield Mage",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -537,7 +542,7 @@
     },
     {
         "card_name": "CU03 Bounds Explorer",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -545,7 +550,7 @@
     },
     {
         "card_name": "CB01 Afterlife Emissary",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -553,7 +558,7 @@
     },
     {
         "card_name": "CR03 Leyline Cultivator",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -561,7 +566,7 @@
     },
     {
         "card_name": "CG13 Sage's Blessing",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -584,7 +589,7 @@
     },
     {
         "card_name": "CW08 Congregation Healer",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -592,7 +597,7 @@
     },
     {
         "card_name": "CR04 Moonchaser Sage",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -600,7 +605,7 @@
     },
     {
         "card_name": "CB05 Cryptic Eulogist",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -608,7 +613,7 @@
     },
     {
         "card_name": "CW05 Sacrament Taker",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -616,7 +621,7 @@
     },
     {
         "card_name": "CG03 Animist's Plea",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -637,7 +642,7 @@
     "a->colorless",
     {
         "card_name": "CA01 Awakened Statue",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -645,7 +650,7 @@
     },
     {
         "card_name": "CA02 Templeguard Golem",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -653,7 +658,7 @@
     },
     {
         "card_name": "CA03 Thunderbird Golem",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -661,7 +666,7 @@
     },
     {
         "card_name": "CA04 Ancient Glyphtrap",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
@@ -669,7 +674,7 @@
     },
     {
         "card_name": "CA05 Dreamscape Pylon",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "rcr",
         "rotated": false,
